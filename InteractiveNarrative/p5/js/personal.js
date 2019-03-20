@@ -144,7 +144,7 @@ function goOutside() {
 	firstOption.mousePressed(clickSound);
 	firstOption.mouseReleased(outside1option);
 	secOption.mousePressed(clickSound);
-	secOption.mousePressed(outside2option);	
+	secOption.mouseReleased(outside2option);	
 
 }
 
